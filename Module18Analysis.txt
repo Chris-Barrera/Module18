@@ -1,0 +1,10 @@
+﻿Final Analysis:
+
+
+        Our CitiBike data provided us with a lot of information and as we can see in our visualizations and maps our start and end locations overlap quite a bit implying that many people around that area starting and stopping their trips in the same spots. By far the most used station is located on Grove St Path. Upon some investigation of the area there has been a greater effort around there to clean up the area and attract lively businesses that are attracting people. 
+
+
+        Speaking of people, the users of CitiBikes also show us some interesting data points. In our pie graphs, it shows that many users are actually subscribed, meaning that there are more people on CitiBike’s annual program than customers who only have access to the bike on a 24 hour to 3 day period. We can also see that the vast majority of users are male around the 40 - 50 age mark. 
+
+
+        Citibike has had great success in finding a demographic of people who are on the move in a bustling part of the city. We can see that there is still room to grow in attracting more of a female demographic and perhaps even capturing a younger demographic as well. With the Grove St Path station being the most widely used station servicing of the station there should be a priority as a bad impression of the station might deter new customers.
